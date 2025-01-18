@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+  color: white ;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.move-image-button{
+  border: white 2.4px solid;
+  background-color: black;
+  padding: 1px, 6px;
+  border-radius: 60px;
+  height: 120px;
+  width: 120px;
+  margin-left: 10px;
+}
+
+.move-image{
+  height:50px;
+  width: 50px;
+}
+
+.results{
+  font-size: 24px;
+  margin-top: 50px;
+  
+}
+
+.score{
+  margin-top: 60px;
+}
+
+.reset-score-button{
+  background-color: white;
+  color: black;
+  border: none;
+  font-size: 15px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
